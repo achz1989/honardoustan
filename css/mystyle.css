@@ -1,0 +1,79 @@
+ul{
+    direction: rtl;
+}
+
+.nav-item{
+    position: relative;
+    width: 140px;
+    font-size: larger;
+    
+}
+#contactUs{
+    margin-right: -30px;
+}
+
+#home{
+    padding-right: 100px;
+}
+#contactUs{
+    padding-left: 50px;
+}
+.btn{direction: rtl;
+}
+.mb-3{
+    direction: rtl;
+    text-align: center;
+}
+
+span{
+    direction: rtl;
+    align-items: right;
+    /* align-self: baseline; */
+    text-align: right;
+  
+}
+ul{
+    /* float: right; */
+    /* clear: left; */
+    text-align: right;
+}
+p{
+    text-align: right;
+    direction: rtl;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: right;
+    direction: rtl;
+}
+#mb4{
+    text-align: center;
+    direction: rtl;
+}
+
+.dropdown-menu li {
+    text-align: right;
+
+}
+
+footer section div .socialNetworks { 
+    text-align: right;   
+}
+/* change card direction rtl */
+.text-lg-start {
+    direction: rtl;
+}
+/* aligned text inside card body center. */
+.card-body {align-self: center;
+}
+.card-title {
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+footer section div #slogan p{
+    text-align: right;
+    direction: rtl;
+    align-items: start;
+    align-self: start;
+}
