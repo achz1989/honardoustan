@@ -1,6 +1,7 @@
 notes/
 models/
 .DS_Store
-.vscode/
+.vscode
 authentication.js
 nodes_modules
+.mdb
