@@ -13,7 +13,8 @@ ul{
 }
 
 #home{
-    padding-right: 100px;
+    /* padding-right: 100px; */
+    text-align: center;
 }
 #contactUs{
     padding-left: 50px;
@@ -77,7 +78,11 @@ footer section div #slogan p{
     align-items: start;
     align-self: start;
 }
+/* Navigation background-color of links when hover on it */
 .nav-link:hover{
     background-color: darkslategray;
     text-align: center;
+}
+#about-me {
+    padding-left: 30px;
 }
