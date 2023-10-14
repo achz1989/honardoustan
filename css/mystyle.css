@@ -16,6 +16,10 @@ ul{
     /* padding-right: 100px; */
     text-align: center;
 }
+#home:hover {
+    padding-right: 20px; 
+    /* When hovered the link goes 20 px to the right.  */
+}
 #contactUs{
     padding-left: 50px;
 }
