@@ -77,3 +77,7 @@ footer section div #slogan p{
     align-items: start;
     align-self: start;
 }
+.nav-link:hover{
+    background-color: darkslategray;
+    text-align: center;
+}
